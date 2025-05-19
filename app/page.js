@@ -191,7 +191,7 @@ export default function Home() {
             className="mt-12 text-center"
           >
             <p className="text-white text-sm font-medium">
-              Join thousands of job seekers who have improved their interview success rate by 70%
+              Join thousands of job seekers who have improved their interview success rate by 99%
             </p>
           </motion.div>
         </motion.div>
